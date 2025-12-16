@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Paceo
+Paceo is a Flutter-based fitness tracking app that helps users manage workouts and monitor progress at their own pace. Built with Firebase, it serves as a functional prototype showcasing core fitness features and mobile app development skills.
+>>>>>>> 34cc4a41c2bf87a0c8bcfdc742e27c29ccee36c8
 🦾 Paceo – Smart Fitness & Wellness Tracker App
 A personalized fitness companion built with Flutter + Firebase.
 Paceo helps users track workouts, meals, body metrics, and follow structured programs with a clean, premium-grade interface.
@@ -100,4 +105,8 @@ ________________________________________________________________________________
 👨‍💻 Developer
 
 Darryl Tariao
+<<<<<<< HEAD
 BSIT 
+=======
+BSIT 
+>>>>>>> 34cc4a41c2bf87a0c8bcfdc742e27c29ccee36c8
