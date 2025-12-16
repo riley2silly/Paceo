@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691945279842",
+    "project_id": "paceo-f6257",
+    "storage_bucket": "paceo-f6257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691945279842:android:785049a9b79d688e511c3b",
+        "android_client_info": {
+          "package_name": "com.example.paceo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTR_SE1cvEr3MlgA-GhMPws-nNy6ddnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
